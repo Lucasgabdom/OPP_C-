@@ -8,7 +8,7 @@ class Musica
     public bool Disponivel { get; set; }
 
     public string DescricaoResumida => 
-        $"A música {nome} pertence à banda {Artista}";
+        $"A música {Nome} pertence à banda {Artista}";
 
     public void ExibirInformacoes()
     {
