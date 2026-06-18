@@ -3,5 +3,6 @@
   <Project Path="01-podcast/01-podcast.csproj" />
   <Project Path="02-Estoque/02-Estoque.csproj" />
   <Project Path="AprendizadoDePOO/AprendizadoDePOO.csproj" />
+  <Project Path="livros/livros.csproj" />
   <Project Path="secao04/secao04.csproj" />
 </Solution>
