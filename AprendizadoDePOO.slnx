@@ -4,5 +4,6 @@
   <Project Path="02-Estoque/02-Estoque.csproj" />
   <Project Path="03-Praticando/03-Praticando.csproj" />
   <Project Path="AprendizadoDePOO/AprendizadoDePOO.csproj" />
+  <Project Path="livros/livros.csproj" />
   <Project Path="secao04/secao04.csproj" />
 </Solution>
