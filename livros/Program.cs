@@ -1,4 +1,4 @@
-﻿Livro meuLivro = new Livro();
+﻿Livro meuLivro = new Livro ();
 meuLivro.Titulo = "O Senhor dos Anéis";
 meuLivro.Autor = "J.R.R. Tolkien";
 
