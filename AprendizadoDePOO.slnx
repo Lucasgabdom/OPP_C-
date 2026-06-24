@@ -4,6 +4,7 @@
   <Project Path="02-Estoque/02-Estoque.csproj" />
   <Project Path="03-contaBancaria/03-contaBancaria.csproj" />
   <Project Path="04-gestao/04-gestao.csproj" />
+  <Project Path="05-area/05-area.csproj" />
   <Project Path="AprendizadoDePOO/AprendizadoDePOO.csproj" />
   <Project Path="livros/livros.csproj" />
   <Project Path="secao04/secao04.csproj" />
